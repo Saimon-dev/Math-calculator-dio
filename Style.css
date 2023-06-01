@@ -1,0 +1,27 @@
+body{
+    background-image: radial-gradient(at right, rgba(129, 20, 93, 0.733), #4d1d63, #0b0958);
+    text-align: center;
+    
+}
+input{
+    width: 50%;
+    text-align: center;
+    border-radius: 9px;
+    border: none;
+    height: 25px;
+    font-weight: 20px;
+    font-size: 18px;
+    border: none;
+    background-color: azure;
+}
+button{
+    cursor: pointer;
+}
+p{
+    font-size: 18px;
+}
+
+#italic{
+    font-family: san-serif;
+    color: rgb(29, 7, 66);
+}
